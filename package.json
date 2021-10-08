@@ -1,16 +1,24 @@
 {
-    "name": "Lab",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node index.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "express": "^4.17.1"
-    }
+  "name": "Lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyendinhbach2015/Lab-Node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nguyendinhbach2015/Lab-Node/issues"
+  },
+  "homepage": "https://github.com/nguyendinhbach2015/Lab-Node#readme"
 }
